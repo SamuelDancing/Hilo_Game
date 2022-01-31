@@ -2,7 +2,25 @@
 ---
 Author: Samuel Gallew (sdancing971@gmail.com)
 
-Late Submission.
+Late Solo Submission.
+
+# Description
+---
+Sometimes Solitare is a little to complex, but you don't have a friend to play TicTacToe while you wait for that one project to compile. Hilo is a quick and easy card game. Just bid high or low, and see if you're lucky. If you guess right, you get 100 points. If you guess wrong, you lose 75. See if you can reach 10,000 points!
+
+# Structure
+---
+Hilo_Game:
+    README.md
+    __main__.py
+    .gitignore
+    content:
+        Cards.py
+        Director.py
+
+# Required Software
+---
+While some earlier versions may work, use python 3.9.1 or later for the best results.
 
 # To play
 ---
