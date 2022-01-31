@@ -10,13 +10,11 @@ Sometimes Solitare is a little to complex, but you don't have a friend to play T
 
 # Structure
 ---
-Hilo_Game:
-    README.md
-    __main__.py
-    .gitignore
-    content:
-        Cards.py
-        Director.py
+root                    (project root folder)
++-- content             (source code for game)
+  +-- game              (specific classes)
+  +-- __main__.py       (program entry point)
++-- README.md           (general info)
 
 # Required Software
 ---
